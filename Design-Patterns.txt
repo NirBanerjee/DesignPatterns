@@ -1,0 +1,42 @@
+1. Overview of Design Patterns
+2. Advvantages of Design Patterns
+3. Types of Design Patterns
+4. Impoertant design principles and strategies - 
+   a. Design Smells
+   b. Programming to an interface
+   c. Composition over inheritance
+   d. Delegation Principles
+   e. Single Responsibility
+   f. Open-Closed for Principle
+   g. Liskov Substitution principle
+   h. Interface Segregation Principle
+   i. Dependency Inversion and Injection
+5. UML
+   a. Class diagrams
+   b. OO concepts in UML
+6. Creational Design Patterns
+   a. Factory
+   b. Abstract Factory
+   c. Singleton
+   d. Builder
+   e. Prototype
+7. Structural Design Patterns
+   a. Adapter
+   b. Bridge
+   c. Composite
+   d. Decorator
+   e. Facade
+   f. Flyweight
+   g. Proxy
+8. Behavioral Design Patterns
+   a. Chain of Responsibility
+   b. Command
+   c. Interpreter
+   d. Iterator
+   e. Mediator
+   f. Memento
+   g. Observer
+   h. State
+   i. Strategy
+   j. Template Method
+   k. Visitor
